@@ -19,9 +19,9 @@
     <a href="https://expressjs.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/2f0db692ec65f04e56c67a149ce6bafd98ba260a519c8b02a589191517bbde39/68747470733a2f2f77372e706e6777696e672e636f6d2f706e67732f3534352f3435312f706e672d7472616e73706172656e742d6e6f64652d6a732d657870726573732d6a732d6a6176617363726970742d736f6c7574696f6e2d737461636b2d7765622d6170706c69636174696f6e2d6f74686572732d616e676c652d746578742d72656374616e676c652d7468756d626e61696c2e706e67" alt="express" height="60px" data-canonical-src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" style="max-width: 100%;"> </a>
 </p>
 <h2 align="left">GitHub Stats:</h2>
-<p align="center"><img align="center" width="90%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ritik Raj" /></p>
-<p align="center">&nbsp;<img align="center" width="90%" " src="https://github-readme-stats.vercel.app/api?username=ritikraj07&show_icons=true&locale=en&theme=tokyonight" alt="Ritik Raj" /></p>
-<p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikraj07&&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ritik Raj" /></p>
+<p align="center"><img align="center" width="90%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki097&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Nikita Saini" /></p>
+<p align="center">&nbsp;<img align="center" width="90%" " src="https://github-readme-stats.vercel.app/api?username=niki097&show_icons=true&locale=en&theme=tokyonight" alt="Nikita SAini" /></p>
+<p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikraj07&&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Nikita saini" /></p>
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
