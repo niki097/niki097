@@ -21,7 +21,7 @@
 <h2 align="left">GitHub Stats:</h2>
 <p align="center"><img align="center" width="90%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki097&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Nikita Saini" /></p>
 <p align="center">&nbsp;<img align="center" width="90%" " src="https://github-readme-stats.vercel.app/api?username=niki097&show_icons=true&locale=en&theme=tokyonight" alt="Nikita SAini" /></p>
-<p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikraj07&&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Nikita saini" /></p>
+<p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=niki097&&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Nikita saini" /></p>
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
