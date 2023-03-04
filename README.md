@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nikita Saini</h1><h2 align="center">A passionate Web Developer from India</h2><br>🔭 I’m currently working on Web dev projects<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about HTML, CSS, JavaScript, react, redux, Node.js, Express, MongoDB<br><br>📫 How to reach me : nikitasaini09@gmail.com<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/niks_artz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sainikita/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/c/DrawwithNiki97) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niks_artz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainikita) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/DrawwithNiki97) 
 
 <h2 align="left">Tech Stack:</h2>
 <p align="center" dir="auto">
