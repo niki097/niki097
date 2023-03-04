@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi 👋, I'm Nikita Saini<br>A passionate full stack developer from India<br>🔭 I’m currently working on Web dev projects<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about HTML, CSS, JavaScript, react, redux, Node.js, Express, MongoDB<br><br>📫 How to reach me : nikitasaini09@gmail.com<br>
+<h3>Hi 👋, I'm Nikita Saini</h3><br>A passionate full stack developer from India<br>🔭 I’m currently working on Web dev projects<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about HTML, CSS, JavaScript, react, redux, Node.js, Express, MongoDB<br><br>📫 How to reach me : nikitasaini09@gmail.com<br>
 
 
 ## 🌐 Socials:
