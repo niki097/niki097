@@ -1,4 +1,5 @@
 <img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966"/>
+<p align="right"> <img width="100px" src="https://komarev.com/ghpvc/?username=niki097&label=Profile%20views&color=0e75b6&style=flat" alt="Nikita saini" /> </p>
 <h1 align="center">Hi 👋, I'm Nikita Saini</h1><h2 align="center">A passionate Web Developer from India</h2><br>🔭 I’m currently working on Web dev projects<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about HTML, CSS, JavaScript, react, redux, Node.js, Express, MongoDB<br><br>📫 How to reach me : nikitasaini09@gmail.com<br>
 
 ## 🌐 Socials:
@@ -22,11 +23,5 @@
 <p align="center"><img align="center" width="66%" height="36%"  src="https://github-readme-streak-stats.herokuapp.com/?user=niki097&&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Nikita saini" /></p>
 <p align="center"><img align="center" width="" height="236px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki097&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Nikita Saini" /></p>
 
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=niki097&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
